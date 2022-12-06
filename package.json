@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "reactivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "draft.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jsdom": "^20.0.3",
+    "virtual-dom": "^2.1.1"
+  },
+  "engines": {
+    "node": ">= 18.0.0",
+    "npm": ">= 8.0.0"
+  }
+}
